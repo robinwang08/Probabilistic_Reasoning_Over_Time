@@ -1,4 +1,4 @@
-package assignment_mazeworld;
+package mazeworld;
 
 import java.io.IOException;
 import java.nio.charset.Charset;

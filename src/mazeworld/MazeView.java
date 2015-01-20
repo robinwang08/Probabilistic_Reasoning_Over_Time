@@ -1,4 +1,4 @@
-package assignment_mazeworld;
+package mazeworld;
 
 import java.util.ArrayList;
 

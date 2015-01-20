@@ -1,10 +1,12 @@
-package assignment_mazeworld;
+package mazeworld;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 
+import mazeworld.SearchProblem.SearchNode;
+import mazeworld.SimpleMazeProblem.SimpleMazeNode;
 import javafx.animation.KeyFrame;
 import javafx.animation.Timeline;
 import javafx.animation.TranslateTransition;
@@ -16,8 +18,6 @@ import javafx.scene.Scene;
 import javafx.scene.layout.StackPane;
 import javafx.stage.Stage;
 import javafx.util.Duration;
-import assignment_mazeworld.SearchProblem.SearchNode;
-import assignment_mazeworld.SimpleMazeProblem.SimpleMazeNode;
 
 public class SimpleMazeDriver extends Application {
 
